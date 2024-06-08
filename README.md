@@ -7,4 +7,4 @@ Esse projeto tem o objetivo de mostrar a resolução do desafio *Natural ou Fake
 Criar 4 artigos com fotografias utilizando a inteligência artificial sobre a Agricultura no Brasil.
 
 ## Tecnologias utilizadas:
-[]
+[xs]
