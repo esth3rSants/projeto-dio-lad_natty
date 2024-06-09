@@ -17,5 +17,6 @@ O processo de criação foi bem simples. Executei a seguinte mensagem para o cha
 ## 🚀 Resultados
 
 
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
